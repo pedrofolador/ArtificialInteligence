@@ -15,7 +15,7 @@ body {
     min-height: 100vh;
 }
   
-.caixa-principal{
+.caixaprincipal{
     background-color: var(--cor-principal);
     width: 90%;
     text-align: center;
